@@ -8,4 +8,4 @@
 
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/JAVA-4479A1?style=flat-square&logo=JAVA&logoColor=yellow"/></a> 
+<img src="https://img.shields.io/badge/JAVA-4479A2?tyle=flat-square&logo=JAVA&logoColor=white"/></a> 
