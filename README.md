@@ -9,8 +9,6 @@
 
 
 
-<img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/november._.27/" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a> <a href="mindung1127@gmail.com">
-
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/JAVA-4479A1?tyle=flat-square&logo=JAVA&logoColor=white"/></a> 
