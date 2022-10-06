@@ -9,7 +9,7 @@
 
 
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%mindung%2Fhit-counter&count_bg=%2387C6FE&title_bg=%23FF9898&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/JAVA-007396?tyle=flat-square&logo=JAVA&logoColor=white"/></a> 
